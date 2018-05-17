@@ -4,7 +4,7 @@ description: How Microbatteries will change the world
 cover: assets/images/battery.gif
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
 url: "http://testerteresa.github.io"
 # url: "http://mgt2024.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
