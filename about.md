@@ -8,9 +8,9 @@ This blog special report is created purely for educational use only, and is mean
 
 <h2 id="heading2">Meet the team</h2>
 
-<amp-img src="{{ site.baseurl }}assets/images/jh.jpg" width="760" height="508" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="/assets/images/jh.jpg" width="760" height="508" layout="responsive" alt="" class="mb3"></amp-img>
 <h3 id="heading3">Chan Jing Hong, Design and Research</h3>
 
-<amp-img src="{{ site.baseurl }}assets/images/froyo.jpg" width="760" height="508" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="/assets/images/froyo.jpg" width="760" height="508" layout="responsive" alt="" class="mb3"></amp-img>
 <h3 id="heading3">Shum Ka Poh, Research and Design</h3>
 
