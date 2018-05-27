@@ -1,58 +1,47 @@
-# Site settings
-title: Scientific Ideas & Innovation
-description: How battery innovations will change the world
-cover: assets/images/battery.gif
-logo: assets/images/logo.png
-favicon: assets/images/favicon.png
-baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
-url: "http://testerteresa.github.io/"
-# url: "http://mgt2024.github.io" # the base hostname & protocol for your site
-paginate:	5 # The number of posts to show per page on your homepage
+title: Your awesome title
+author: GitHub User
+email: your-email@domain.com
+description: > # this means to ignore newlines until "twitter_username:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
-# Social
-# facebook: facebook
-# twitter: twitter
-# github:  github
+# social links
+twitter_username: jekyllrb
+github_username:  jekyll
+rss: rss
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
 
-#Additional Pages
-about: about
-# contact: contact
-# privacy-policy: privacy-policy
+# Mastodon instances
+# mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
 
 
-permalink: /:title
+show_excerpts: false # set to true to show excerpts on the homepage
 
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
 
-# Google Analytics
-analytics_id: ""
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
 
 # Build settings
-markdown: kramdown
-
-kramdown:
-  parse_block_html: true
+theme: minima
 
 plugins:
-  - jekyll-paginate
-
-
-# # Settings for rake task
-# safe: False
-# lsi: False
-# username: samanyougarg #github username
-# repo: hanuman #github repository
-# branch: master #branch
-# relative_source: ../hanuman/ #source directory
-# destination: ../hanuman-pages/ #destination directory
-# production_url:  https://samanyougarg.com/
-# source_url:  https://github.com/samanyougarg/hanuman #source repository url
-
-exclude:
-  - README.md
-  - Rakefile
-  - Gemfile
-  - Gemfile.lock
-  - changelog.md
-  - "*.Rmd"
-  - vendor
-  - .travis.yml
+ - jekyll-feed
+ - jekyll-seo-tag
