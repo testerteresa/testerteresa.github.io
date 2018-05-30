@@ -16,5 +16,7 @@ categories: misc
 6. Click **Buy Now**
 7. Make payment, and then take a screenshot of the receipt
 8. Send the receipt and contact information to me, or email jinghongchan@gmail.com
-9. Collect reward $$
+9. Get review information from me. I've already written the review, you just have to copy paste it.
+10. Verified the review
+11. Collect reward $$
 
