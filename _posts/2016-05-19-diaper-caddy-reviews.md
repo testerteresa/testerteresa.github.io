@@ -5,7 +5,7 @@ categories: misc
 ---
 
 1. Go to [Amazon.com](https://www.amazon.com/)
-2. On the search bar, search for **“Baby shower diaper caddy with FREE E-book | For boy and girl | Food, wipes, toiletries storage | Portable bag trend for nursery | Nappy diapers and bottles | Natural Grey and Black | Baby shower gift”**
+2. On the search bar, search for **“Baby shower diaper caddy FREE E-book For boy and girl Food, wipes, toiletries storage Portable bag trend for nursery Nappy diapers and bottles Natural Grey and Black Baby shower gift Mom”**
 ![Search baby shower diaper caddy for boy and girl pandas on Amazon](/assets/DiaperCaddy/search_term.png)
 
 3. Click on the first result
